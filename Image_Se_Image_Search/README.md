@@ -6,9 +6,7 @@
     <li><b><I>Query:</I></b> Consider you want to search images from your database which contains car .</li>
     <li><b><i>Solution:</i></b> You provide an image of car then all images from database have car should be return.</li>
     </ul>
-    
- <b> Demo Video Link : <b> https://user-images.githubusercontent.com/94001814/190885304-2b33f910-c5e2-4358-9364-dec2dbeea3d7.mp4
-    
+        
     
 <b> <u>Screen 1 : Where user Uploads Image as a seach query and hit `Submit`.</u> </b> 
 
