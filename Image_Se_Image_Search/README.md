@@ -16,13 +16,14 @@
     
 <b> <u>Screen 2 : Where response of similar images are presented.</u> </b> 
 
-<img src="https://user-images.githubusercontent.com/94001814/190883942-d2116f44-33a5-49b3-b0d0-6ac886bc66e3.png">
+<img src="https://user-images.githubusercontent.com/94001814/192099400-c69e8562-b5d4-41d6-a047-0e854b761741.png">
 <b>`Note` :</b> <i> images are displayed in their most to less similar images .</i>
     <br/>
     <br/>
 <b> <u>Steps to Run the Project :</u> </b>
     <ul>
-        <li> git clone `https://github.com/codeprofile/Image_Se_Image_Search` </li>
+        <li> git clone `https://github.com/codeprofile/MicrosoftHackathon` </li>
+        <li> cd `Image_Se_Image_Search` </li>
         <li> pip install -r requirements.txt </li>
         <li>  flask run </li>
     </ul>
